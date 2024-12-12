@@ -1,0 +1,9 @@
+torch
+Pillow
+opencv-python
+numpy
+streamlit
+ultralytics
+Pillow
+pandas
+scikit-learn

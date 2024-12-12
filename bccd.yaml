@@ -1,0 +1,8 @@
+train: ./data/train/images
+val: ./data/val/images
+
+train_labels: ./data/train/labels
+val_labels: ./data/val/labels
+
+nc: 1
+names: ['cell']
